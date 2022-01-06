@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    padding-left: 5px;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+.top-banner h1{
+    font-size: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-left: 4px solid orangered;
+    padding-left: 5px;
+}
+.top-banner{
+    display: flex;
+    margin-left: 5%;
+}
+.half-width{
+    width: 40%;
+    margin-right: 5%;
+    padding-left: 5%;
+    
+}
+#top1{
+    padding-top: 60px;
+}
+img{
+    width: 70%;
+}
+.span-color{
+    color: orange;
+    font-weight: 500;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.my-mission h1{
+    text-align: center;
+}
